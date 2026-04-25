@@ -86,9 +86,11 @@ I aim to optimize workflows and help teams release products confidently.
 Sharp eye for detail and a curiosity-driven mindset for bug hunting, actively preventing issues before they escalate while reducing error rates. 
 
 ---
+
 As a professional teacher in my past years, I learned from and worked with former National Geographic Education and Pearson’s top consultant, 
 seeing many students conquer challenges across areas and life stages. 
 This taught me the value of continuous learning and purposeful work, which I now apply in my day by day.
+
 ---
 
 🚀 What I’m Working On  
