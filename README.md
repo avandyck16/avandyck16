@@ -80,7 +80,7 @@ This has allowed me to build a strong foundation in manual testing, test case de
 starting to implement automation frameworks into Azure DevOps.
 
 At this stage in my career, my main focus is to deepen my expertise in test automation, along with develop further my foundational 
-experience writing automated tests using Selenium (Python and Selenium IDE); 
+experience writing automated tests using Cypress and Selenium frameworks. 
 I aim to optimize workflows and help teams release products confidently.
 
 Sharp eye for detail and a curiosity-driven mindset for bug hunting, actively preventing issues before they escalate while reducing error rates. 
