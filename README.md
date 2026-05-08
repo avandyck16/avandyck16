@@ -114,7 +114,7 @@ I taught myself 3D modeling for a video game by experimenting with software and 
 I am pretty darn good on composing technical documentation!  
 I enjoy mastering software tools in just a few days—almost like a pro!  
 
-[![Email Footer](https://github.com/user-attachments/assets/63f60569-69b9-4479-827a-e5e384eaa034)](https://linkedin.com/in/axelvandyck)
+[<img width="873" height="547" alt="githublogos" src="https://github.com/user-attachments/assets/728f594e-f45a-43b6-b12b-7d4bc541b2d4" />](https://linkedin.com/in/axelvandyck)
 
 
 <!---
