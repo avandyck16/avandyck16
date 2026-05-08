@@ -74,14 +74,19 @@
 
 🌟 About Me
 
-After over 7 years in bilingual teaching, I started my career in QA just over 2 years ago. 
-Having previous experience in IT technical support. I grew into a QA Engineer supporting around eight projects. 
-This has allowed me to build a strong foundation in manual testing, test case design, defect tracking, and currently 
-starting to implement automation frameworks into Azure DevOps.
+QA Automation Engineer with experience in manual and automated testing for web and mobile applications, focused on improving product quality and release confidence. Strong foundation in manual testing, test automation design and management, and excellent technical writing skills
 
-At this stage in my career, my main focus is to deepen my expertise in test automation, along with develop further my foundational 
-experience writing automated tests using Cypress and Selenium frameworks. 
-I aim to optimize workflows and help teams release products confidently.
+Currently working as a sole QA across multiple projects, where I have contributed to building testing foundations, introducing automation with Cypress, and improving test coverage and stability.
+
+
+I have experience in:
+- End-to-end testing (Cypress & Manual)
+- Test case design and defect tracking
+- Azure DevOps (test management & task tracking)
+- Web and mobile testing (iOS & Android)
+
+My focus is on reducing risk in production, optimizing testing workflows, and helping teams deliver reliable software.
+My goal is to dive even deeper in the Automation expertise!
 
 Sharp eye for detail and a curiosity-driven mindset for bug hunting, actively preventing issues before they escalate while reducing error rates. 
 
@@ -93,16 +98,9 @@ This taught me the value of continuous learning and purposeful work, which I now
 
 ---
 
-🚀 What I’m Working On  
-
-I proudly work as a QA Engineer supporting around eight projects. 
-This has allowed me to build a strong foundation in manual testing, test case design, defect tracking, 
-and currently starting to implement automation frameworks into Azure DevOps.
-
 📫 Let’s Connect!
 
 ### Gmail: [![acontreras9012@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:acontreras9012@gmail.com)
-
 
 ### LinkedIn: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)
 
