@@ -82,6 +82,7 @@ Currently working as a sole QA across multiple projects, where I have contribute
 I have experience in:
 - End-to-end testing (Cypress & Manual)
 - Test case design and defect tracking
+- Build Validation Testing for Pipelines & Post-Deploy testing
 - Azure DevOps (test management & task tracking)
 - Web and mobile testing (iOS & Android)
 
