@@ -1,6 +1,7 @@
 *Please review this page in English as Spanish translation may not be accurate.*
    ##
 ## 👋 Hi, I’m Axel Van Dyck - @avandyck16
+
 <div align="center">
   <a href="https://www.linkedin.com/in/axelvandyck">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -11,36 +12,32 @@
   <a href="mailto:avdyck@alset.com.mx">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
-  <a href="https://axel-qa.short.gy/PortfolioNotion">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
   <a href="https://github.com/avandyck16">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,windows,apple" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,azure,sentry,py,pycharm,selenium,powershell,postman,postgres,git,figma)](https://skillicons.dev)
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![FreshDesk](https://img.shields.io/badge/FreshDesk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/DevTools-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-</div>
-
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 
 
@@ -54,10 +51,25 @@
 
 
 <div align="center">
-  <a href="https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8?pvs=4">
+  <a href="https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31">
     <img src="https://github.com/user-attachments/assets/46455058-25e0-4dc2-87f0-afdaee3dc685" alt="My Notion Page" width="330"/>
   </a>
 </div>
+
+
+
+
+<sub>────────────────────────────────────────────────────────</sub>
+
+Link to all my GitHub projects:
+
+👉 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avandyck16?tab=repositories)
+
+Link to all my projects in Notion UI:
+
+👉 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://qa-warrior.notion.site/Proyectos-Logros-b5ddcc541c1d4e90b6787dcde40e6d31)
+
+<sub>────────────────────────────────────────────────────────</sub>
 
 ##   
 <!---
@@ -83,7 +95,7 @@ I have experience in:
 - End-to-end testing (Cypress & Manual)
 - Test case design and defect tracking
 - Build Validation Testing for Pipelines & Post-Deploy testing
-- Azure DevOps (test management & task tracking)
+- Azure DevOps (CI/CD, test management & task tracking)
 - Web and mobile testing (iOS & Android)
 
 My focus is on reducing risk in production, optimizing testing workflows, and helping teams deliver reliable software.
@@ -105,11 +117,12 @@ This taught me the value of continuous learning and purposeful work, which I now
 
 ### LinkedIn: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/axelvandyck)
 
-### Notion Profile: [![My Skills](https://skillicons.dev/icons?i=notion)](https://qa-warrior.notion.site/Axel-Van-Dyck-ec5289614b314e4884a4a6d7198ff1e8) 
+
 
 
 # 😄 Fun Facts  
 
+Intuitive ability is my main weapon.
 I’m an introvert, but I love tackling new challenges and learning quickly.  
 I taught myself 3D modeling for a video game by experimenting with software and game assets.  
 I am pretty darn good on composing technical documentation!  
