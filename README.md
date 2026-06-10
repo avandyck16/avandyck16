@@ -14,10 +14,8 @@
 Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
-  </a>
-</p>
+      <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
+  </p>
 
 
 ### ➡️ Latest / Current Professional Experience
