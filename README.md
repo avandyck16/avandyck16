@@ -14,7 +14,7 @@
 Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
 
 <p align="center">
-      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,powershell,postman,markdown,chatgpt,windows,apple,android" />
+      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,yaml,powershell,postman,markdown,chatgpt,windows,apple,android" />
   </p>
 
 
