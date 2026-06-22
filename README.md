@@ -9,14 +9,20 @@
 
 ---
 
-### ➡️ Stack
+### ➡️ Current Stack
 
 Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
+      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,powershell,postman,markdown,chatgpt,windows,apple,android" />
   </p>
 
+
+<!--
+<p align="center">
+      <img src="https://skillicons.dev/icons?i=azure,cypress,javascript,vscode,selenium,powershell,postman,md,ai,windows,apple" />
+  </p>
+-->
 
 ### ➡️ Latest / Current Professional Experience
 
