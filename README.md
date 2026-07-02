@@ -44,7 +44,7 @@ As a professional teacher in my past years, I learned from and worked with forme
     <img src="https://img.shields.io/badge/Ver_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"> -->
 
 </a>
-  <a href="https://avandyck16.github.io/Portfolio-QA/assets/EN%20Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1Z9jP0Dpa02uQiOxV9WXs-7lCnD1wPOhU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
 </a>
 
