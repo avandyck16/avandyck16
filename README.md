@@ -26,7 +26,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Se
 
 ### ➡️ Latest / Current Professional Experience
 
-Alset, Inc. →  QA Engineer for Test Automation & Manual E2E Testing
+Alset, Inc. | QA Engineer | Test Automation & Manual E2E Testing
 
 
 ---
