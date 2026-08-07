@@ -75,7 +75,7 @@ As a professional teacher in my past years, I learned from and worked with forme
 
 → Intuitive ability is my main weapon.
 
-→ I taught myself 3D modeling for a video game by experimenting with software and game assets at age 13.  
+→ I taught myself 3D modeling for a video game by experimenting with software and game assets at age 16.  
 
 → I created a Windows maintenance toolkit over a decade ago to automate support tasks—and I still use parts of it today.
 (You can take a look at it in my repositories)
