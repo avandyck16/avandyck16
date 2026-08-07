@@ -71,6 +71,8 @@ As a professional teacher in my past years, I learned from and worked with forme
 
 ### 😄 Fun Facts  
 
+→ I started breaking and fixing computers when I was 12. Thanks, dad for bringing our first old PC home back then — you accidentally started my QA journey!. 
+
 → Intuitive ability is my main weapon.
 
 → I taught myself 3D modeling for a video game by experimenting with software and game assets at age 13.  
