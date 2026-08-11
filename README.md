@@ -11,10 +11,10 @@
 
 ### ➡️ Current Stack
 
-Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Selenium WebDriver · CLI · Postman · Web · Mobile
+Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CLI · Postman · Web · Mobile
 
 <p align="center">
-      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,typescript,yaml,powershell,postman,markdown,chatgpt,windows,apple,android" />
+      <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,selenium,yaml,powershell,postman,markdown,chatgpt,windows,apple,android" />
   </p>
 
 
@@ -26,12 +26,12 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · Python · Se
 
 ### ➡️ Latest / Current Professional Experience
 
-Alset, Inc. | QA Engineer | Test Automation & Manual E2E Testing
+>**Alset, Inc. | QA Engineer | Test Automation & Manual E2E Testing**
 
 
 ---
 
-As a professional teacher in my past years, I learned from and worked with former National Geographic Education and Pearson’s top consultant, seeing many students conquer challenges across areas and life stages. This taught me the value of continuous learning and purposeful work, which I now apply in my day by day.
+>_As a professional teacher in my past years, I learned from and worked with former National Geographic Education and Pearson’s top consultant, seeing many students conquer challenges across areas and life stages. This taught me the value of continuous learning and purposeful work, which I now apply in my day by day._
 
 ---
 
