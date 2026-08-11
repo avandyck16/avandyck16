@@ -1,5 +1,8 @@
 ## 👾 Welcome to Axel's GitHub 👾
 
+Please visit "Repositories" tab to see my study cases & projects portfolio.
+
+---
 
 ### Who's behind all of this? 
 
@@ -93,4 +96,8 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 </div>
    
 ---
+<div style="text-align:center; color:#888; font-size:10px;">
+    Axel Van Dyck | QA Engineer | 2026
+</div>
+
    
