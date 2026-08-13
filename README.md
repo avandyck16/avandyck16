@@ -1,7 +1,5 @@
 ## 👾 Welcome to Axel's GitHub 👾
 
-Please visit "Repositories" tab to see my study cases & projects portfolio.
-
 ---
 
 ### Who's behind all of this? 
@@ -43,9 +41,6 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
   <a href="https://drive.google.com/file/d/1ZvK-cUYmKfiLjfps08EoIOuZR-Hhqjcq/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
 
-<!-- <a href="https://avandyck16.github.io/Portfolio-QA/assets/Axel%20Van%20Dyck%20QA%20Engineer.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Ver_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"> -->
-
 </a>
   <a href="https://drive.google.com/file/d/1Z9jP0Dpa02uQiOxV9WXs-7lCnD1wPOhU/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume">
@@ -55,9 +50,10 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
    <img src="https://img.shields.io/badge/View_Repositories-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://qa-warrior.notion.site/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d">
+<!-- <a href="https://qa-warrior.notion.site/Projects-Portfolio-08a7f2a1544a48d391cd91eaa5423c2d">
    <img src="https://img.shields.io/badge/View_Case_Studies_at_Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
+--> 
 
  
 </div>
@@ -72,9 +68,77 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### 😄 Fun Facts  
+# 💼 Featured Projects
 
-→ I started breaking and fixing computers when I was 12. Thanks, dad, for bringing our first old PC home back then — you accidentally started my QA journey!. 
+### 3PLICITY 
+#### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
+
+- E2E automation for a SaaS logistics management platform focused on operations between 3PL companies and merchants.
+- The implementation of this framework enabled the automation of critical processes within a SaaS logistics platform, covering complete workflows between different user roles and business operations.
+- The solution reduced dependency on manual validations, improved regression reliability, and enabled earlier detection of issues throughout the delivery lifecycle.
+
+    ➡️ [View Case Study](https://github.com/avandyck16/3PLicity-Supply-Chain-Platform-E2E-Automation)
+
+---
+
+### SprintLine
+#### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
+
+- E2E automation for an AI-powered platform that transforms product ideas into technical documentation and implementation-ready specifications.
+- The framework automates critical workflows including authentication, registration, Questionnaire, Product Definition, and RFP generation and delivery.
+- Its Azure DevOps integration enables tests to run against the build artifact before deployment, preserve execution evidence, and incorporate E2E validation into the CI/CD process.
+- Result: a stable and repeatable E2E automation suite providing representative coverage of SprintLine's highest-value workflows and direct integration with the software delivery pipeline.
+
+    ➡️ [View Case Study](https://github.com/avandyck16/Sprintline-Automated-Testing-JS-Cypress)
+
+---
+
+### Brandhub
+#### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
+
+- E2E automation suite using Cypress for BrandHub, an AI-powered branding platform with generative AI integrations.
+- Beyond reducing manual validation effort before deployment, the solution addressed technical challenges involving backend cold starts, unstable selectors, asynchronous rendering, persistent sessions, dynamic test data, generative AI response times, and automated reporting.
+- The implementation of this E2E automation suite enabled automated validation of critical BrandHub workflows while integrating testing directly into the CI/CD process.
+
+    ➡️ [View Case Study](https://github.com/avandyck16/BrandHub-Testing-Cypress-JS-Azure)
+
+---
+
+### Automation Implementation | Pipeline CI/CD 
+#### Vite + Cypress + Azure Static Web Apps 
+
+- This automation framework was initially integrated into the CI/CD workflow through Azure DevOps YAML pipelines, incorporating Cypress E2E test execution as a quality gate before deployment.
+- This YAML file defines an automated workflow that builds the application on a controlled dev environment, runs end-to-end Cypress tests, and deploys to Azure Static Web Apps depending on the branch (`dev` or `main`).
+- The goal is that every time someone performs a push or merge, the system handles the complete process without manual intervention.
+- The logic implemented was:
+
+| Situation      | Initial Build | Cypress | Build PROD | Deploy |
+| -------------- | ------------- | ------- | ---------- | ------ |
+| PR → `dev`     | DEV           | DEV     | —          | —      |
+| Merge → `dev`  | DEV           | DEV     | —          | DEV    |
+| PR → `main`    | DEV           | DEV     | —          | —      |
+| Merge → `main` | DEV           | DEV     | PROD       | PROD   |
+
+   ➡️ [View Case Study](https://github.com/avandyck16/Pipeline-CI-CD-Vite-Cypress-Azure)
+
+---
+
+### IT Management Tools | Historical Project
+#### Administrative Tools Collection | Batch | CMD | PowerShell 
+
+- IT MGMT TOOLS is a collection of administrative utilities for Windows developed in Batch (.bat), designed to centralize common system maintenance, diagnostics, recovery, and configuration tasks into a single menu-based interface.
+- The main goal was to reduce the time required to perform repetitive technical support tasks, avoiding the need to manually remember or type multiple commands during maintenance and troubleshooting processes.
+- This project was developed around 2011–2012, several years before my professional transition into QA Engineering and Automation.
+- Although the project was created more than a decade ago, several of its features remain useful today, and some are still part of my workflow for diagnostics and maintenance tasks in Windows environments.
+
+
+    ➡️ [View Case Study](https://github.com/avandyck16/it-management-tools-axel)
+
+---
+
+### 😄 Facts About Me  
+
+→ I started breaking and fixing computers when I was 12. Thanks, dad, for bringing our first old PC home back then — you accidentally started my QA journey! 
 
 → Intuitive ability is my main weapon.
 
@@ -83,9 +147,9 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 → I created a Windows maintenance toolkit over a decade ago to automate support tasks—and I still use parts of it today.
 (You can take a look at it in my repositories)
 
-→ I am pretty darn good at writing technical documentation!  
+→ I’m still growing, but I’ve reached the point where I know I can bring real value to the team
 
-→ I enjoy mastering software tools in just a few days—almost like a pro! 
+→ I enjoy diving into new software tools and getting up to speed with them quickly.
 
 ---
 
