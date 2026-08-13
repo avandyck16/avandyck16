@@ -104,8 +104,29 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
+### Pipeline CI/CD v1.1.1 — Environment-Aware Build & E2E Quality Gate
+#### Vite + Cypress + Azure DevOps + Azure Static Web Apps
+
+- Refactor of an existing CI/CD pipeline to align application builds, Cypress E2E validation, environment configuration, and deployment targets according to the branch being processed.
+- Although pipeline architecture was not my primary role, I went beyond implementing the Cypress test stages and investigated how the CI/CD workflow operated as a whole.
+- As the automation framework evolved, this approach introduced a limitation: **Production deployments were being validated using a Development build and Development configuration**.
+- The pipeline was therefore redesigned so that the build, Cypress configuration, and deployment target are aligned with the branch being processed.
+
+- # Branch-Based Deployment
+
+| Merge target | Build | Cypress            | Deploy |
+| ------------ | ----- | ------------------ | ------ |
+| `dev`        | DEV   | DEV configuration  | DEV    |
+| `main`       | PROD  | PROD configuration | PROD   |
+
+  ➡️ [View Case Study](https://github.com/avandyck16/Pipeline-CICD-Environment-Aware-E2E-Gate)
+
+---
+
 ### Automation Implementation | Pipeline CI/CD 
 #### Vite + Cypress + Azure Static Web Apps 
+
+>Beyond test automation: I am not a Pipeline or DevOps Architect, but I wanted to go beyond simply writing tests. I took the initiative to understand how CI/CD pipelines work, how the different stages interact, and how QA automation could become part of that process. >This project was the result of putting that knowledge into practice and building the initial testing pipeline for the team.
 
 - This automation framework was initially integrated into the CI/CD workflow through Azure DevOps YAML pipelines, incorporating Cypress E2E test execution as a quality gate before deployment.
 - This YAML file defines an automated workflow that builds the application on a controlled dev environment, runs end-to-end Cypress tests, and deploys to Azure Static Web Apps depending on the branch (`dev` or `main`).
