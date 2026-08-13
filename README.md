@@ -136,7 +136,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### 😄 Facts About Me  
+## 😄 Facts About Me  
 
 → I started breaking and fixing computers when I was 12. Thanks, dad, for bringing our first old PC home back then — you accidentally started my QA journey! 
 
