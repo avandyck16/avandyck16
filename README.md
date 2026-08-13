@@ -70,7 +70,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 # 💼 Featured Projects
 
-### 3PLICITY 
+## 3PLICITY 
 #### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation for a SaaS logistics management platform focused on operations between 3PL companies and merchants.
@@ -81,7 +81,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### SprintLine
+## SprintLine
 #### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation for an AI-powered platform that transforms product ideas into technical documentation and implementation-ready specifications.
@@ -93,7 +93,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### Brandhub
+## Brandhub
 #### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation suite using Cypress for BrandHub, an AI-powered branding platform with generative AI integrations.
@@ -104,7 +104,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### Pipeline CI/CD v1.1.1 — Environment-Aware Build & E2E Quality Gate
+## Pipeline CI/CD v1.1.1 — Environment-Aware Build & E2E Quality Gate
 #### Vite + Cypress + Azure DevOps + Azure Static Web Apps
 
 - Refactor of an existing CI/CD pipeline to align application builds, Cypress E2E validation, environment configuration, and deployment targets according to the branch being processed.
@@ -112,7 +112,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 - As the automation framework evolved, this approach introduced a limitation: **Production deployments were being validated using a Development build and Development configuration**.
 - The pipeline was therefore redesigned so that the build, Cypress configuration, and deployment target are aligned with the branch being processed.
 
-- # Branch-Based Deployment
+- #### Branch-Based Deployment
 
 | Merge target | Build | Cypress            | Deploy |
 | ------------ | ----- | ------------------ | ------ |
@@ -123,7 +123,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### Automation Implementation | Pipeline CI/CD 
+## Automation Implementation | Pipeline CI/CD 
 #### Vite + Cypress + Azure Static Web Apps 
 
 >Beyond test automation: I am not a Pipeline or DevOps Architect, but I wanted to go beyond simply writing tests. I took the initiative to understand how CI/CD pipelines work, how the different stages interact, and how QA automation could become part of that process. >This project was the result of putting that knowledge into practice and building the initial testing pipeline for the team.
@@ -144,7 +144,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 
 ---
 
-### IT Management Tools | Historical Project
+## IT Management Tools | Historical Project
 #### Administrative Tools Collection | Batch | CMD | PowerShell 
 
 - IT MGMT TOOLS is a collection of administrative utilities for Windows developed in Batch (.bat), designed to centralize common system maintenance, diagnostics, recovery, and configuration tasks into a single menu-based interface.
