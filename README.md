@@ -12,8 +12,6 @@
 
 ### ➡️ Current Stack
 
-Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CLI · Postman · Web · Mobile
-
 <p align="center">
       <img src="https://skills.syvixor.com/api/icons?perline=8&i=azure,cypress,playwright,k6,jest,visualstudiocode,javascript,selenium,yaml,powershell,postman,markdown,chatgpt,windows,apple,android" />
   </p>
