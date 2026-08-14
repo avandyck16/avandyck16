@@ -74,6 +74,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 #### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation for a SaaS logistics management platform focused on operations between 3PL companies and merchants.
+- Reduction of manual validation time from ~1.15 hours to ~2.42 minutes **(~96%)**.
 - The implementation of this framework enabled the automation of critical processes within a SaaS logistics platform, covering complete workflows between different user roles and business operations.
 - The solution reduced dependency on manual validations, improved regression reliability, and enabled earlier detection of issues throughout the delivery lifecycle.
 
@@ -85,6 +86,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 #### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation for an AI-powered platform that transforms product ideas into technical documentation and implementation-ready specifications.
+- Validation time reduced from ~50 minutes to ~9 minutes **(~82%).**
 - The framework automates critical workflows including authentication, registration, Questionnaire, Product Definition, and RFP generation and delivery.
 - Its Azure DevOps integration enables tests to run against the build artifact before deployment, preserve execution evidence, and incorporate E2E validation into the CI/CD process.
 - Result: a stable and repeatable E2E automation suite providing representative coverage of SprintLine's highest-value workflows and direct integration with the software delivery pipeline.
@@ -97,6 +99,7 @@ Cypress · JavaScript · Azure DevOps · CI/CD · YAML Pipelines · GitHub · CL
 #### E2E Automation Framework | Cypress | JavaScript | Azure Pipelines | CI/CD
 
 - E2E automation suite using Cypress for BrandHub, an AI-powered branding platform with generative AI integrations.
+- Reduced validation time from ~45 min to ~5 min **(88%).**
 - Beyond reducing manual validation effort before deployment, the solution addressed technical challenges involving backend cold starts, unstable selectors, asynchronous rendering, persistent sessions, dynamic test data, generative AI response times, and automated reporting.
 - The implementation of this E2E automation suite enabled automated validation of critical BrandHub workflows while integrating testing directly into the CI/CD process.
 
