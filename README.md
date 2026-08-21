@@ -68,6 +68,18 @@
 
 # 💼 Featured Projects
 
+## 3PLICITY Demo Video
+#### QA Testing & Product Demo; B2B Logistics SaaS | Manual QA | Product Analysis | Multimedia
+
+* QA testing and product analysis for a B2B logistics SaaS platform connecting 3PL companies and merchants.
+* Developed a stakeholder-facing **Demo Video** showcasing end-to-end Merchant and 3PL workflows, business processes, and key platform capabilities.
+* Went beyond feature validation to understand the platform's business logic, dependencies, and complete operational workflows.
+* Created professional multimedia content to communicate technical product functionality clearly to both technical and non-technical stakeholders, supporting the **Shopify app review and acceptance process**.
+
+  ➡️ [View Demo Video & Case Study](https://github.com/avandyck16/Demo-Video-Logistics-3PL-Case-Study)
+
+---
+
 ## 3PLICITY 
 #### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
 
