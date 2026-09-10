@@ -181,7 +181,7 @@
 → I created a Windows maintenance toolkit over a decade ago to automate support tasks—and I still use parts of it today.
 (You can take a look at it in my repositories)
 
-→ I’m still growing, but I’ve reached the point where I know I can bring real value to the team
+→ I’m still growing, but I’ve reached the point where I know I can bring real value to the team quickly. 
 
 → I enjoy diving into new software tools and getting up to speed with them quickly.
 
