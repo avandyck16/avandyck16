@@ -68,6 +68,21 @@
 
 # 💼 Featured Projects
 
+## Cypress E2E Pipeline Execution Modes
+
+#### CI/CD Test Automation Architecture | Cypress | Azure DevOps | YAML | CI/CD
+
+* Refactored Cypress E2E execution into a **reusable Azure DevOps YAML template**, separating test execution logic from the main pipeline while keeping Cypress integrated into the CI/CD workflow.
+* Designed two execution modes: **Build → Cypress → Deploy** for delivery pipelines and **Cypress → Reports** for manual DEV/PROD regression testing against deployed environments.
+* Implemented reusable parameters for environment selection, application URLs, and local-build execution, with centralized reporting, screenshots, and JUnit results.
+* Took on the pipeline refactor as a QA Engineer without a dedicated pipeline-architecture background, **researching Azure DevOps behavior, troubleshooting implementation issues, and delivering a working reusable solution**.
+
+
+  ➡️ [View Pipeline Framework & Case Study](https://github.com/avandyck16/cypress-reusable-pipeline-framework)
+
+
+---
+
 ## 3PLICITY Demo Video
 #### QA Testing & Product Demo; B2B Logistics SaaS | Manual QA | Product Analysis | Multimedia
 
