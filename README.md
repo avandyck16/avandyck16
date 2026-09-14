@@ -70,7 +70,7 @@
 
 ## Cypress E2E Pipeline Execution Modes
 
-#### CI/CD Test Automation Architecture | Cypress | Azure DevOps | YAML | CI/CD
+#### CI/CD Test Execution Modes | Cypress | Azure DevOps | YAML | CI/CD
 
 * Refactored Cypress E2E execution into a **reusable Azure DevOps YAML template**, separating test execution logic from the main pipeline while keeping Cypress integrated into the CI/CD workflow.
 * Designed two execution modes: **Build → Cypress → Deploy** for delivery pipelines and **Cypress → Reports** for manual DEV/PROD regression testing against deployed environments.
