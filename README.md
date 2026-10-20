@@ -68,18 +68,56 @@
 
 # 💼 Featured Projects
 
-## Cypress E2E Pipeline Execution Modes
+## GitHub Version Control
 
-#### CI/CD Test Execution Modes | Cypress | Azure DevOps | YAML | CI/CD
+#### GitHub · Azure DevOps · VsCode
 
-* Refactored Cypress E2E execution into a **reusable Azure DevOps YAML template**, separating test execution logic from the main pipeline while keeping Cypress integrated into the CI/CD workflow.
-* Designed two execution modes: **Build → Cypress → Deploy** for delivery pipelines and **Cypress → Reports** for manual DEV/PROD regression testing against deployed environments.
-* Implemented reusable parameters for environment selection, application URLs, and local-build execution, with centralized reporting, screenshots, and JUnit results.
-* Took on the pipeline refactor as a QA Engineer without a dedicated pipeline-architecture background, **researching Azure DevOps behavior, troubleshooting implementation issues, and delivering a working reusable solution**.
+- How I use GitHub branches to isolate automation work related to specific features, enhancements, or test updates.
+- My responsibility is to ensure that the automation changes are correctly implemented, reviewed, and validated through the CI/CD pipeline before integration.
+- Automation branches: Used to develop, update, and maintain Cypress E2E tests related to a specific feature or functional change.
+- Feature-based workflow: Automation work is maintained within the corresponding feature branch, keeping the implementation and its automated validation aligned.
 
 
-  ➡️ [View Pipeline Framework & Case Study](https://github.com/avandyck16/cypress-reusable-pipeline-framework)
+  ➡️ [View Case Study](https://github.com/avandyck16/Version-Control-GitHub-E2E)
 
+---
+
+## Cursor - Unit Test Coverage CI Quality Gate
+
+#### PowerShell · Azure DevOps · Cursor
+
+- Expanded the unit test suite for a multi-tenant ASP.NET Core API and implemented an 85% application line-coverage gate in the Azure DevOps CI/CD pipeline.
+- The work focused on increasing meaningful test coverage, validating business logic and tenant isolation, and ensuring that insufficient coverage or failed tests block the deployment stages.
+- This project strengthened automated regression coverage and introduced a measurable quality gate into CI/CD.
+- It demonstrates practical work across test architecture, isolated unit testing, API integration testing, coverage analysis, pipeline troubleshooting, and deployment safeguards.
+
+
+  ➡️ [View Case Study](https://github.com/avandyck16/Cursor-Unit-Test-Coverage-CI-Quality-Gate)
+
+
+---
+
+
+## Delivery and Regression Testing in Azure DevOps pipelines for independent executions. 
+#### CI/CD Pipeline Refactoring | Cypress | Azure DevOps | YAML | JavaScript
+
+- Extracted Cypress execution and reporting steps from the main pipeline into a reusable YAML template.
+- Created an independent manual regression pipeline with DEV/PROD environment selection.
+- Added a configurable execution mode to run tests against either a locally served build artifact or an already deployed application.
+- This was taken as a standard to follow for subsequent projects.
+
+    ➡️ [View Case Study](https://github.com/avandyck16/Delivery-and-Regression-Pipelines-in-Azure-DevOps)
+
+--- 
+## 3PLICITY 
+#### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
+
+- E2E automation for a SaaS logistics management platform focused on operations between 3PL companies and merchants.
+- Reduction of manual validation time from ~1.15 hours to ~2.42 minutes **(~96%)**.
+- The implementation of this framework enabled the automation of critical processes within a SaaS logistics platform, covering complete workflows between different user roles and business operations.
+- The solution reduced dependency on manual validations, improved regression reliability, and enabled earlier detection of issues throughout the delivery lifecycle.
+
+    ➡️ [View Case Study](https://github.com/avandyck16/3PLicity-Supply-Chain-Platform-E2E-Automation)
 
 ---
 
@@ -92,18 +130,6 @@
 * Created professional multimedia content to communicate technical product functionality clearly to both technical and non-technical stakeholders, supporting the **Shopify app review and acceptance process**.
 
   ➡️ [View Demo Video & Case Study](https://github.com/avandyck16/Demo-Video-Logistics-3PL-Case-Study)
-
----
-
-## 3PLICITY 
-#### E2E Automation Framework; B2B Logistics SaaS | Cypress | JavaScript | Azure Pipelines | CI/CD
-
-- E2E automation for a SaaS logistics management platform focused on operations between 3PL companies and merchants.
-- Reduction of manual validation time from ~1.15 hours to ~2.42 minutes **(~96%)**.
-- The implementation of this framework enabled the automation of critical processes within a SaaS logistics platform, covering complete workflows between different user roles and business operations.
-- The solution reduced dependency on manual validations, improved regression reliability, and enabled earlier detection of issues throughout the delivery lifecycle.
-
-    ➡️ [View Case Study](https://github.com/avandyck16/3PLicity-Supply-Chain-Platform-E2E-Automation)
 
 ---
 
@@ -128,47 +154,21 @@
 - Beyond reducing manual validation effort before deployment, the solution addressed technical challenges involving backend cold starts, unstable selectors, asynchronous rendering, persistent sessions, dynamic test data, generative AI response times, and automated reporting.
 - The implementation of this E2E automation suite enabled automated validation of critical BrandHub workflows while integrating testing directly into the CI/CD process.
 
-    ➡️ [View Case Study](https://github.com/avandyck16/BrandHub-Testing-Cypress-JS-Azure)
+    ➡️ [View Case Study](https://github.com/avandyck16/BrandHub-Testing-Cypress-JS-Azure) 
 
 ---
 
-## Pipeline CI/CD v1.1.1 — Environment-Aware Build & E2E Quality Gate
-#### Vite + Cypress + Azure DevOps + Azure Static Web Apps
+## Automation Implementation and Pipeline CI/CD Evolution
+#### YML + Cypress + Azure Static Web Apps 
 
-- Refactor of an existing CI/CD pipeline to align application builds, Cypress E2E validation, environment configuration, and deployment targets according to the branch being processed.
-- Although pipeline architecture was not my primary role, I went beyond implementing the Cypress test stages and investigated how the CI/CD workflow operated as a whole.
-- As the automation framework evolved, this approach introduced a limitation: **Production deployments were being validated using a Development build and Development configuration**.
-- The pipeline was therefore redesigned so that the build, Cypress configuration, and deployment target are aligned with the branch being processed.
+- As a QA Engineer, I took the initiative to extend my work beyond test automation by learning how the pipeline stages interact and applying that knowledge to improve the team's testing and delivery process.
+- The work progressed through three main stages:
+-       Initial integration: established automated Cypress validation within the existing Build → Test → Deploy process.
+-       Environment-aware validation: aligned application builds, Cypress configuration, and deployment targets with the target branch.
+-       Reusable test execution: separated Cypress execution logic into a reusable YAML template, enabling both integrated pipeline validation and independent regression runs.
 
-- #### Branch-Based Deployment
 
-| Merge target | Build | Cypress            | Deploy |
-| ------------ | ----- | ------------------ | ------ |
-| `dev`        | DEV   | DEV configuration  | DEV    |
-| `main`       | PROD  | PROD configuration | PROD   |
-
-  ➡️ [View Case Study](https://github.com/avandyck16/Pipeline-CICD-Environment-Aware-E2E-Gate)
-
----
-
-## Automation Implementation | Pipeline CI/CD 
-#### Vite + Cypress + Azure Static Web Apps 
-
->Beyond test automation: I am not a Pipeline or DevOps Architect, but I wanted to go beyond simply writing tests. I took the initiative to understand how CI/CD pipelines work, how the different stages interact, and how QA automation could become part of that process. >This project was the result of putting that knowledge into practice and building the initial testing pipeline for the team.
-
-- This automation framework was initially integrated into the CI/CD workflow through Azure DevOps YAML pipelines, incorporating Cypress E2E test execution as a quality gate before deployment.
-- This YAML file defines an automated workflow that builds the application on a controlled dev environment, runs end-to-end Cypress tests, and deploys to Azure Static Web Apps depending on the branch (`dev` or `main`).
-- The goal is that every time someone performs a push or merge, the system handles the complete process without manual intervention.
-- The logic implemented was:
-
-| Situation      | Initial Build | Cypress | Build PROD | Deploy |
-| -------------- | ------------- | ------- | ---------- | ------ |
-| PR → `dev`     | DEV           | DEV     | —          | —      |
-| Merge → `dev`  | DEV           | DEV     | —          | DEV    |
-| PR → `main`    | DEV           | DEV     | —          | —      |
-| Merge → `main` | DEV           | DEV     | PROD       | PROD   |
-
-   ➡️ [View Case Study](https://github.com/avandyck16/Pipeline-CI-CD-Vite-Cypress-Azure)
+   ➡️ [View Case Study](https://github.com/avandyck16/CI-CD-Implementation-and-Evolution)
 
 ---
 
