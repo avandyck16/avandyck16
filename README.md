@@ -98,7 +98,7 @@
 ---
 
 
-## Delivery and Regression Testing in Azure DevOps pipelines for independent executions. 
+## Delivery and Regression Independent Pipelines in CI  
 #### CI/CD Pipeline Refactoring | Cypress | Azure DevOps | YAML | JavaScript
 
 - Extracted Cypress execution and reporting steps from the main pipeline into a reusable YAML template.
